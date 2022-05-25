@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelhadidevv&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhadidevv" /> </p>
 
-<h2 align="left"> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2 align="left"> About Me </h2>
 - 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://abdelhadi.netlify.app/](https://abdelhadi.netlify.app/)
