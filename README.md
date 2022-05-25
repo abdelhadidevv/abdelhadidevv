@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelhadidevv&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhadidevv" /> </p>
 
 <h2 align="left"> About Me </h2>
+
 - 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://abdelhadi.netlify.app/](https://abdelhadi.netlify.app/)
