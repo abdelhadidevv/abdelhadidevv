@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdelhadips2020@gmail.com**
 
-<h2> Connect with me <img src='https://github.com/abdelhadidevv/abdelhadidevv/blob/assets/handshake.gif' width = 32px> </h2>
+<h2> Connect with me <img src='https://github.com/abdelhadidevv/abdelhadidevv/blob/assets/handshake.gif' width ="32px"> </h2>
 
 <h2 align="left"> Skills <img src = "https://raw.githubusercontent.com/abdelhadidevv/abdelhadidevv/assets/giphy.webp" width = 32px> </h2>
 
