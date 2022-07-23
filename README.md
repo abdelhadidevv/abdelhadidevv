@@ -5,7 +5,7 @@
 
 <h2 align="left"> About Me </h2>
 
-- 🌱 I’m currently learning **Next.js **
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://abdelhadidevv.vercel.app/](https://abdelhadidevv.vercel.app/)
 
