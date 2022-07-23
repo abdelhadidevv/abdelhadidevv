@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abd Elhadi</h1>
-<h3 align="center">A passionate frontend developer from Palestine</h3>
+<h3 align="center">A passionate frontend react js developer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelhadidevv&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhadidevv" /> </p>
 
 <h2 align="left"> About Me </h2>
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **Next.js **
 
 - 👨‍💻 All of my projects are available at [https://abdelhadidevv.vercel.app/](https://abdelhadidevv.vercel.app/)
 
