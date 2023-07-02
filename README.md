@@ -5,10 +5,6 @@
 
 <h2 align="left"> About Me </h2>
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://abdelhadidevv.vercel.app/](https://abdelhadidevv.vercel.app/)
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **abdelhadips2020@gmail.com**
